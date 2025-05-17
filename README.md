@@ -23,6 +23,7 @@ Git Version Control
         Focused on providing a smooth and user-friendly experience by ensuring that buttons, links, and interactive elements behaved intuitively and responsively.
 
 Code Optimization: 
+
 Wrote clean, well-organized, and maintainable HTML, CSS, adhering to best practices and standards.
 
 
