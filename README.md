@@ -21,6 +21,7 @@ Git Version Control
 
   *  User Experience: 
         Focused on providing a smooth and user-friendly experience by ensuring that buttons, links, and interactive elements behaved intuitively and responsively.
+     
 
 Code Optimization: 
 
