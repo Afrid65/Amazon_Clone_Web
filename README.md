@@ -7,8 +7,7 @@ Responsive Web Design
 Git Version Control
 
   *  Design and Layout: 
-        Meticulously designed and structured the web page, replicating the iconic Amazon layout. This included the header with the Amazon logo, navigation menu, 
-        and search bar, as well as the product listings, featured deals, and category sections.
+        Meticulously designed and structured the web page, replicating the iconic Amazon layout. This included the header with the Amazon logo, navigation menu, and search bar, as well as the product listings, featured deals, and category sections.
 
   *  Responsive Design: 
         Ensured that the Amazon clone web page was fully responsive, adapting seamlessly to various screen sizes and devices.
@@ -28,5 +27,7 @@ Code Optimization:
 
 Wrote clean, well-organized, and maintainable HTML, CSS, adhering to best practices and standards.
 
+Front end
 
 
+backend
