@@ -26,5 +26,4 @@ Wrote clean, well-organized, and maintainable HTML, CSS, adhering to best practi
 
 Front end
 
-
 backend
