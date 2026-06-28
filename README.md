@@ -24,6 +24,5 @@ Git Version Control
 Code Optimization: 
 Wrote clean, well-organized, and maintainable HTML, CSS, adhering to best practices and standards.
 
-Front 
 
 backend
