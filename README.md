@@ -1,6 +1,6 @@
 # Amazon_Clone_Web
 Technologies Used:
-
+Frontend 
 HTML5
 CSS3
 Responsive Web Design
